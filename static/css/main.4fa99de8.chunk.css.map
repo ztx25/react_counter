@@ -1,0 +1,1 @@
+{"version":3,"sources":["Counter.scss"],"names":[],"mappings":"AAAA,kBACE,SAAU,CACX,cAGC,WAAY,CACb,qBAGC,UAAY,CACZ,oBAAqB","file":"main.4fa99de8.chunk.css","sourcesContent":[".multiple-of-five {\n  color: red;\n}\n\n.not-multiple {\n  color: green;\n}\n\n.multiple-of-five-bg {\n  color: white;\n  background-color: red;\n}\n"]}
